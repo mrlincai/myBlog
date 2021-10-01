@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¡¦ÿþÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(“§Ôäüÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(’µš÷ÿÿÿÿÿ
+H
+java:S1135K"2Complete the task associated to this TODO comment.(ºÖˆÙ
+I
+java:S1135˜"2Complete the task associated to this TODO comment.(”÷ÀŠ
+N
+java:S1135±"2Complete the task associated to this TODO comment.(úÖó…ÿÿÿÿÿ
+V
+java:S6213Î":Rename this variable to not match a restricted identifier.(¸¸‡Äüÿÿÿÿ
+V
+java:S6213Ø":Rename this variable to not match a restricted identifier.(¸¸‡Äüÿÿÿÿ
+D
+java:S1144Ö"-Remove this unused private "copyList" method.(©§Þä

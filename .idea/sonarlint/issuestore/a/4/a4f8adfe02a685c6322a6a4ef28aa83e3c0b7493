@@ -1,0 +1,17 @@
+
+b
+java:S1192?"GDefine a constant instead of duplicating this literal "TOKEN_" 4 times.(¯¬—¡øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¡¦ÿşÿÿÿÿ
+z
+java:S1488P"_Immediately return this expression instead of assigning it to the temporary variable "sysUser".(€ÖÓóûÿÿÿÿ
+T
+java:S1128">Remove this unused import 'io.netty.util.internal.StringUtil'.(‡ÛÖ†
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıßƒŸúÿÿÿÿ
+T
+java:S1135"2Complete the task associated to this TODO comment.(±’ü‡ûÿÿÿÿ8¤ıèãÁ/
+H
+java:S1135%"2Complete the task associated to this TODO comment.(˜¦ÜÙ
+M
+java:S1135,"2Complete the task associated to this TODO comment.(™ÅÌ±øÿÿÿÿ
+H
+java:S1135]"2Complete the task associated to this TODO comment.(ÚÁ»ë

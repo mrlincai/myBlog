@@ -1,0 +1,12 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ªÔÓ¥
+\
+java:S2259+"AA "NullPointerException" could be thrown; "map" is nullable here.(ãÙ‰€ùÿÿÿÿ
+s
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "token".(ÆíÚğ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îÚ¸à
+Y
+java:S5659"CThe JWT signature (JWS) should be verified before using this token.(ªÔÓ¥
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ñšÔ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ãÙ‰€ùÿÿÿÿ
